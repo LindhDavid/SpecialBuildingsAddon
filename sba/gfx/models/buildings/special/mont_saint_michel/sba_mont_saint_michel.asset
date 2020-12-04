@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "sm_mont_saint_michel_01_mesh"
+	file = "sm_mont_saint_michel_01.mesh"
+
+	meshsettings = {
+		name = "sm_mont_saint_michel_01"
+		index = 0
+		texture_diffuse = "null_diffuse.dds"
+		texture_normal = "null_normal.dds"
+		texture_specular = "null_gloss.dds"
+		#texture = { file = "T_visbyRingmur_unique.dds" index = 5 }
+		shader = "standard_atlas"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "sm_mont_saint_michel_01_entity"
+	pdxmesh = "sm_mont_saint_michel_01_mesh"
+}

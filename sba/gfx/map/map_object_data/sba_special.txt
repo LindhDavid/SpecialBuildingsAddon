@@ -1,0 +1,45 @@
+object={
+	name="sba_special_uppsala_domkyrka"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="sba_uppsala_domkyrka_mesh"
+	count=0
+}
+object={
+	name="Mont Saint Michel"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="sm_mont_saint_michel_01_mesh"
+	count=0
+}
+object={
+	name="Asen Fortress"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="sm_asen_fortress_01_mesh"
+	count=0
+}
+object={
+	name="Laach Abbey"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="sba_laach_abbey_mesh"
+	count=0
+}
+object={
+	name="Sant Climent"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="sba_sant_climent_01_mesh"
+	count=0
+}
