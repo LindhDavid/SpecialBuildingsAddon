@@ -1,7 +1,7 @@
-version="1.0"
+version="0.1"
 tags={
 	"Graphics"
 }
-name="Uppsala Domkyrka"
-supported_version="1.1.3"
+name="Special Buildings Addon"
+supported_version="1.2.1"
 path="C:/Users/lindh/Documents/Paradox Interactive/Crusader Kings III/mod/sba"
