@@ -58,3 +58,171 @@ sba_uppsala_domkyrka_01 = {
 	
 	type = special
 }
+
+##########
+# Asen Fortress
+##########
+
+sba_asen_fortress_01 = {
+
+	asset = {
+		type = pdxmesh
+		name = "sba_asen_fortress_01_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+
+	type_icon = "sba_icon_structure_asen_fortress.dds"
+	
+	show_disabled = yes
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_piety = 1
+		stewardship_per_piety_level = 1
+		monthly_dynasty_prestige_mult = 0.05
+	}
+	county_modifier = {
+		county_opinion_add = 5
+		tax_mult = 0.2
+		development_growth_factor = 0.3
+		development_growth = 0.2
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Laach Abbey
+##########
+
+sba_laach_abbey_01 = {
+
+	asset = {
+		type = pdxmesh
+		name = "sba_laach_abbey_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+
+	type_icon = "sba_icon_structure_laach_abbey.dds"
+	
+	show_disabled = yes
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_piety = 1
+		stewardship_per_piety_level = 1
+		monthly_dynasty_prestige_mult = 0.05
+	}
+	county_modifier = {
+		county_opinion_add = 5
+		tax_mult = 0.2
+		development_growth_factor = 0.3
+		development_growth = 0.2
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Mont Saint Michel
+##########
+
+sba_mont_saint_michel_01 = {
+
+	asset = {
+		type = pdxmesh
+		name = "sm_mont_saint_michel_01_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+
+	type_icon = "sba_icon_structure_mont_saint_michel.dds"
+	
+	show_disabled = yes
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_piety = 1
+		stewardship_per_piety_level = 1
+		monthly_dynasty_prestige_mult = 0.05
+	}
+	county_modifier = {
+		county_opinion_add = 5
+		tax_mult = 0.2
+		development_growth_factor = 0.3
+		development_growth = 0.2
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Saint Climent
+##########
+
+sba_saint_climent_01 = {
+
+	asset = {
+		type = pdxmesh
+		name = "sba_sant_climent_01_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+
+	type_icon = "sba_icon_structure_saint_climent.dds"
+	
+	show_disabled = yes
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_piety = 1
+		stewardship_per_piety_level = 1
+		monthly_dynasty_prestige_mult = 0.05
+	}
+	county_modifier = {
+		county_opinion_add = 5
+		tax_mult = 0.2
+		development_growth_factor = 0.3
+		development_growth = 0.2
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}

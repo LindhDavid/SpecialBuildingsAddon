@@ -3,12 +3,12 @@ pdxmesh = {
 	file = "sba_laach_abbey.mesh"
 
 	meshsettings = {
-		name = "Asen Fortress"
+		name = "sba_laach_abbey_01"
 		index = 0
 		texture_diffuse = "null_diffuse.dds"
 		texture_normal = "null_normal.dds"
 		texture_specular = "null_gloss.dds"
-		#texture = { file = "T_visbyRingmur_unique.dds" index = 5 }
+		texture = { file = "t_laach_abbey_unique.dds" index = 5 }
 		shader = "standard_atlas"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
