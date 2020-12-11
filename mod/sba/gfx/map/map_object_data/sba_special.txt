@@ -24,7 +24,6 @@ object={
 	layer="building_layer"
 	pdxmesh="sm_asen_fortress_01_mesh"
 	count=0
-	#transform="2376.000000 0.000000 2018.000000 0.000000 0.120366 0.000000 0.992730 10.000000 10.000000 10.000000
 }
 object={
 	name="sba_laach_abbey_01"

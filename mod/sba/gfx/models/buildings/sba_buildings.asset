@@ -7,7 +7,7 @@ entity = {
 	locator = { name = "pos_10_a" position = { @[gap * 0.5] 000 @[gap * -1.5 ] } }
 	locator = { name = "pos_10_b" position = { @[gap * 0.5] 000 @[gap * -0.5 ] } }
 	locator = { name = "pos_10_c" position = { @[gap * 0.5] 000 @[gap *  0.5 ] } }
-	locator = { name = "pos_10_d" position = { @[gap * 0.5] 000 @[gap *  -1.5 ] } }
+	locator = { name = "pos_10_d" position = { @[gap * 0.5] 000 @[gap *  1.5 ] } }
 	attach = {         "pos_10_a" = "sba_uppsala_domkyrka_entity" }
 	attach = {         "pos_10_b" = "sba_laach_abbey_entity" }
 	attach = {         "pos_10_c" = "sba_sant_climent_01_entity" }
