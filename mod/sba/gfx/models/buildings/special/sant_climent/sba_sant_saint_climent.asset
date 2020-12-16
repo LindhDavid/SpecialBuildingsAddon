@@ -1,6 +1,7 @@
 pdxmesh = {
 	name = "sba_sant_climent_01_mesh"
 	file = "sba_sant_climent_01.mesh"
+	scale = 1.5
 
 	meshsettings = {
 		name = "sba_sant_climent_01"
