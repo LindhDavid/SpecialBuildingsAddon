@@ -32,41 +32,6 @@ sba_uppsala_domkyrka_01 = {
 			religion = religion:christianity_religion
 		}
 	}
-
-#	can_construct = {
-#		OR = {
-#			scope:holder = {
-#				religion = religion:christianity_religion
-#			}
-#			custom_description = {
-#				text = holy_site_building_trigger
-#				barony = {
-#					is_holy_site_of = scope:holder.faith
-#				}
-#			}
-#		}
-#		scope:holder = {
-#			culture = {
-#				has_innovation = innovation_windmills
-#			}
-#		}
-#	}
-#	is_enabled = {
-#		custom_description = {
-#			text = holy_site_christian_or_holy_site_trigger
-#			OR = {
-#				scope:holder = {
-#					religion = religion:christianity_religion
-#				}
-#				custom_description = {
-#					text = holy_site_building_trigger
-#					barony = {
-#						is_holy_site_of = scope:holder.faith
-#					}
-#				}
-#			}
-#		}
-#	}
 	
 	show_disabled = yes
 	
