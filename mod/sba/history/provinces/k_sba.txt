@@ -15,10 +15,6 @@
 	
 }
 
-#Visby ###################################
-
-
-
 #k_france
 ##d_normandy ###################################
 ###c_lisieux
@@ -57,15 +53,6 @@
 	867.1.1 = {
 		special_building_slot = sba_asen_fortress_01
 	}
-}
-
-#k_italy
-##d_pisa ###################################
-###c_pisa
-2536 = {	#PISA
-	culture = italian
-	religion = catholic
-	holding = city_holding
 }
 
 #k_aragon
