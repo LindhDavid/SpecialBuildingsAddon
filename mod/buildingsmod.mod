@@ -5,4 +5,5 @@ tags={
 }
 name="Buildings Mod"
 supported_version="1.2.*"
+path="C:/Users/lindh/Documents/Paradox Interactive/Crusader Kings III/mod/buildingsmod"
 remote_file_id="2362359821"
